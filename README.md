@@ -17,3 +17,17 @@ FaceInsight is an AI-powered facial analysis tool designed to detect and analyze
 ## 🔜 **Coming Soon**
 - **📷 Live Camera Integration:** Enable real-time emotion detection via webcam.
 - **👥  Multiple Face Detection Toggle:** Allow users to choose whether to detect one or multiple faces.
+
+
+## 🔧 **Technology Stack**
+
+- **Backend**:
+  - 🐍 Python (Core programming language)
+  - 🤖 DeepFace (For deep learning-based facial analysis)
+  - 🖼️ OpenCV (For face detection and image processing)
+  - ➗ NumPy (For handling image arrays and numerical computations)
+
+- **Frontend**:
+  - 📊 Matplotlib (For visualizing processed images)
+  - 💻 Google Colab Interface (For running the project interactively)
+  - ✂️ PIL (Pillow) (For image handling and processing)
