@@ -9,8 +9,8 @@ FaceInsight is an AI-powered facial analysis tool designed to detect and analyze
 
 ## 🌟 **Core Features**
 - **🧑‍🦰 Face Detection:** Uses OpenCV’s Haarcascade classifier to detect human faces in images.
-- **😊😢😡  Emotion Analysis:**  Identifies dominant emotions such as happiness, sadness, anger, and neutral
-- **👦👨👴  Age Estimation:**  Predicts the approximate age of the detected person.
+- **😊 Emotion Analysis:**  Identifies dominant emotions such as happiness, sadness, anger, and neutral
+- **👦 Age Estimation:**  Predicts the approximate age of the detected person.
 - **✅ Gender Classification:**  Determines the gender along with a confidence percentage.
 
 
