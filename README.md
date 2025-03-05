@@ -12,3 +12,8 @@ FaceInsight is an AI-powered facial analysis tool designed to detect and analyze
 - **😊😢😡  Emotion Analysis:**  Identifies dominant emotions such as happiness, sadness, anger, and neutral
 - **👦👨👴  Age Estimation:**  Predicts the approximate age of the detected person.
 - **✅ Gender Classification:**  Determines the gender along with a confidence percentage.
+
+
+## 🔜 **Coming Soon**
+- **📷 Live Camera Integration:** Enable real-time emotion detection via webcam.
+- **👥  Multiple Face Detection Toggle:** Allow users to choose whether to detect one or multiple faces.
