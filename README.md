@@ -31,3 +31,16 @@ FaceInsight is an AI-powered facial analysis tool designed to detect and analyze
   - 📊 Matplotlib (For visualizing processed images)
   - 💻 Google Colab Interface (For running the project interactively)
   - ✂️ PIL (Pillow) (For image handling and processing)
+
+
+## 💻 **Usage Instructions**
+1️⃣ Upload an image using the upload function in Google Colab.
+2️⃣ The system detects the face and analyzes emotion, age, and gender.
+3️⃣ The processed image is displayed with labeled results in red text.
+4️⃣ Results can be saved or used for further applications.
+
+
+## 🖼️ **Output Example**
+
+![FaceInsight Logo](https://github.com/ramygamal231/FaceInsight/blob/main/FaceInsight%20Logo.png)
+
