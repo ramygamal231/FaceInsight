@@ -40,7 +40,10 @@ FaceInsight is an AI-powered facial analysis tool designed to detect and analyze
 4️⃣ Results can be saved or used for further applications.
 
 
+
 ## 🖼️ **Output Example**
 
-![FaceInsight Logo](https://github.com/ramygamal231/FaceInsight/blob/main/FaceInsight%20Logo.png)
+![FaceInsight Output](https://github.com/ramygamal231/FaceInsight/blob/main/FaceInsight%20Output.png)
+
+Note: I'm 22 but I'll give it a pass 😁
 
