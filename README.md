@@ -34,10 +34,10 @@ FaceInsight is an AI-powered facial analysis tool designed to detect and analyze
 
 
 ## 💻 **Usage Instructions**
-1️⃣ Upload an image using the upload function in Google Colab.
-2️⃣ The system detects the face and analyzes emotion, age, and gender.
-3️⃣ The processed image is displayed with labeled results in red text.
-4️⃣ Results can be saved or used for further applications.
+- 1️⃣ Upload an image using the upload function in Google Colab.
+- 2️⃣ The system detects the face and analyzes emotion, age, and gender.
+- 3️⃣ The processed image is displayed with labeled results in red text.
+- 4️⃣ Results can be saved or used for further applications.
 
 
 
