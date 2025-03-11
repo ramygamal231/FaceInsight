@@ -25,7 +25,7 @@ FaceInsight is an AI-powered facial analysis tool designed to detect and analyze
   - 🐍 Python (Core programming language)
   - 🤖 DeepFace (For deep learning-based facial analysis)
   - 🖼️ OpenCV (For face detection and image processing)
-  - ➗ NumPy (For handling image arrays and numerical computations)
+  - ➗ NumPy (For handling image arrays and numerical computations) 
 
 - **Frontend**:
   - 📊 Matplotlib (For visualizing processed images)
