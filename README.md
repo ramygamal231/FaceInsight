@@ -2,7 +2,7 @@
 
 ![FaceInsight Logo](https://github.com/ramygamal231/FaceInsight/blob/main/FaceInsight%20Logo.png)
 
-## 👤 Where Faces Tell a Story!
+## 👤 Where Faces Tell a Story! 
 
 FaceInsight is an AI-powered facial analysis tool designed to detect and analyze human emotions, age, and gender from images. Utilizing OpenCV for face detection and DeepFace for deep learning-based emotion recognition, the system provides insightful data on human expressions. This technology can be used in various applications, including mental health monitoring, customer feedback analysis, and interactive AI systems.
 
